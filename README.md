@@ -136,13 +136,7 @@ Flutterzon is a purpose-driven initiative, with the primary goal of creating an 
 
 - **Video Link** - [https://drive.google.com/uc?id=1XwgXe3bwy-LK_AiMJoD60q6w9Lf8A_oj](https://drive.google.com/uc?id=1XwgXe3bwy-LK_AiMJoD60q6w9Lf8A_oj)
 
-## Run Locally
 
-- Clone this repository
-
-  ```bash
-  https://github.com/tejasbadone/flutterzon_bloc.git
-  ```
 
 - Migrate to the root directory and install all the required dependencies by running
   ```bash
@@ -164,46 +158,3 @@ Flutterzon is a purpose-driven initiative, with the primary goal of creating an 
   npm start (to run index.js)
   ```
   Please star⭐ the repo if you like what you see😉.
-
-## Download
-
-Download apk - https://drive.google.com/file/d/1K1k8DbwHfyAnujwRAPgzXmcEUVABFB_p/view?usp=sharing
-
-## Test Credentials
-
-- User
-
-  - Email: user@email.com
-  - Password: 123456
-
-- Admin
-  - Email: admin@email.com
-  - Password: 123456
-
-## Note
-
-- If you wish to place an order in the application, you can enroll in the [Google Pay API Test Cards Allowlist](https://groups.google.com/g/googlepay-test-mode-stub-data). This will provide you with mock card details, allowing you to safely test the order placement functionality within a controlled environment.
-
-- For the GitHub version of Flutterzon apk provided above, please note that certain administrative features, such as the ability to delete products and offers, have been intentionally disabled to prevent unintended tampering with the actual database. The original codebase, accessible to you, includes the complete functionality, including the ability to delete products. If you wish to explore the full range of features, please refer to the original code provided.
-
-- Please be aware that the application or APIs might experience delays in providing details, as the server is hosted on a hobby plan, If there is no activity for 15 minutes, the server may go to sleep, resulting in a delay in processing the first API request. Your patience during this process is greatly appreciated.
-
-- If you are interested, there is another version of this project built using Provider and Flutter's `setState`. You can access it [here](https://github.com/tejasbadone/flutterzon_provider).
-
-## Disclaimer
-
-This application is a personal project built with educational and learning purposes in mind. It is neither affiliated nor endorsed by Amazon in any way. While the app features product details and images inspired by Amazon, these are solely for demonstration purposes and may not represent actual products. All rights to these elements belong to their respective owners. We are using them for educational purposes only and have no intention of commercial exploitation.
-
-Additionally, be aware that any attempts to place orders within this prototype are purely for testing purposes and will not result in actual product deliveries or charges in the real-world. This environment is designated exclusively for simulation and development purposes
-
-## Contact
-
-- Tejas Badone <br> <br>
-  <a  href="https://www.linkedin.com/in/tejasbadone/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tejas.badone25@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-  feel free to contact me!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/tejasbadone/flutterzon_bloc/blob/main/LICENSE) file for details
